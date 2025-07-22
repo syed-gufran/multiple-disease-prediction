@@ -72,3 +72,5 @@ This application is for educational purposes only and should not be used for rea
 ---
 
 Feel free to contribute, raise issues, or fork the repository!
+
+here's the live link for you to checkout - https://multiple-disease-prediction-gufran.streamlit.app
